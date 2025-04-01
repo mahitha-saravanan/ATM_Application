@@ -25,15 +25,13 @@ Mini Statement: Provides a recent transaction summary.
 05.💻 How to Run
 1️⃣ Clone the Repository
 git clone https://github.com/mahitha-saravanan/ATM_Application.git
-cd atmApplication
+cd ATM_Application
 2️⃣ Compile the Code
-javac com/atmApplication/Main.java
+javac com/ATM_Application/Main.java
 3️⃣ Run the Application
-java com.atmApplication.Main
+java com.ATM_Application.Main
 
 06.🔧 Requirements
 Java 8+
 Eclipse/IntelliJ/Command Prompt
 
-07.📌 License
-This project is licensed under the MIT License.
