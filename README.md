@@ -24,7 +24,7 @@ Mini Statement: Provides a recent transaction summary.
 
 05.💻 How to Run
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/atmApplication.git
+git clone https://github.com/mahitha-saravanan/ATM_Application.git
 cd atmApplication
 2️⃣ Compile the Code
 javac com/atmApplication/Main.java
